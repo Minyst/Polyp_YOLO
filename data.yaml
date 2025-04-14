@@ -1,0 +1,5 @@
+train: /content/Polyp_YOLO/train/images
+val: /content/Polyp_YOLO/val/images
+test: /content/Polyp_YOLO/test/images
+nc: 1
+names: ['polyp']
